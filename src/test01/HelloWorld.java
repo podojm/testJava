@@ -5,6 +5,6 @@ package test01;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("기도하자");
+        System.out.println("하하 어렵구나.");
     }
 }
